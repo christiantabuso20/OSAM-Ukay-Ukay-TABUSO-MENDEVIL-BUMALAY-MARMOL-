@@ -3,7 +3,7 @@ OSAM Ukay-Ukay
 OSAM Ukay-Ukay is a role-based inventory and point-of-sale portal for a secondhand clothing shop. It helps administrators and staff manage apparel, categories, stock movements, sales, reports, users, and activity history from one web application.
 
 Author: Christian Jay Tabuso
-Members: Mendevil, Bumayl, and Marmol
+Members: Mendevil, Bumalay, and Marmol
 
 Features
 
